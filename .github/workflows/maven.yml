@@ -3,7 +3,7 @@
 
 name: Java CI with Maven
 
-on: [push and pull_requests]
+on: [push, pull_request]
   
 
 jobs:
